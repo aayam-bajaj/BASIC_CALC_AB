@@ -1,7 +1,6 @@
 # BASIC_CALC_AB
 
-**BASIC_CALC_AB** is a simple command-line calculator application developed in Java using Visual Studio Code.  
-It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.  
+**BASIC_CALC_AB** is a simple command-line calculator application developed in Java using Visual Studio Code.   
 The project is designed for beginners learning Java and understanding CLI-based applications.
 
 ---
@@ -13,6 +12,10 @@ The project is designed for beginners learning Java and understanding CLI-based 
   - Subtraction
   - Multiplication
   - Division
+- Scientific Operations like factorial, logarithm, square root
+- Unit Conversion
+  - Celsius to Fahrenheit and vice-versa
+  - INR to USD and vice-versa
 - Simple and interactive command-line interface
 - Easy-to-understand Java source code
 - Suitable for educational and beginner use
